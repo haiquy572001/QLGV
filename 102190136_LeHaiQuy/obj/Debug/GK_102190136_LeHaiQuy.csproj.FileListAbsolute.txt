@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\102190136_LeHaiQuy\102190136_LeHaiQuy\bin\Debug\102190136_LeHaiQuy.exe.config
+C:\Users\Admin\source\repos\102190136_LeHaiQuy\102190136_LeHaiQuy\bin\Debug\102190136_LeHaiQuy.exe
+C:\Users\Admin\source\repos\102190136_LeHaiQuy\102190136_LeHaiQuy\bin\Debug\102190136_LeHaiQuy.pdb
+C:\Users\Admin\source\repos\102190136_LeHaiQuy\102190136_LeHaiQuy\obj\Debug\GK_102190136_LeHaiQuy.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\102190136_LeHaiQuy\102190136_LeHaiQuy\obj\Debug\_102190136_LeHaiQuy.FrmGV.resources
+C:\Users\Admin\source\repos\102190136_LeHaiQuy\102190136_LeHaiQuy\obj\Debug\_102190136_LeHaiQuy.Properties.Resources.resources
+C:\Users\Admin\source\repos\102190136_LeHaiQuy\102190136_LeHaiQuy\obj\Debug\GK_102190136_LeHaiQuy.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\102190136_LeHaiQuy\102190136_LeHaiQuy\obj\Debug\GK_102190136_LeHaiQuy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\102190136_LeHaiQuy\102190136_LeHaiQuy\obj\Debug\102190136_LeHaiQuy.exe
+C:\Users\Admin\source\repos\102190136_LeHaiQuy\102190136_LeHaiQuy\obj\Debug\102190136_LeHaiQuy.pdb
+C:\Users\Admin\source\repos\102190136_LeHaiQuy\102190136_LeHaiQuy\obj\Debug\_102190136_LeHaiQuy.FrmDetailGV.resources

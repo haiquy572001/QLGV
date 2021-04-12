@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GK_102190136_LeHaiQuy", "102190136_LeHaiQuy\GK_102190136_LeHaiQuy.csproj", "{F658098E-BDF4-4A50-AD9C-C26858F66605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F658098E-BDF4-4A50-AD9C-C26858F66605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F658098E-BDF4-4A50-AD9C-C26858F66605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F658098E-BDF4-4A50-AD9C-C26858F66605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F658098E-BDF4-4A50-AD9C-C26858F66605}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED454507-D857-4DB7-90C7-FE3DE3A9A936}
+	EndGlobalSection
+EndGlobal
